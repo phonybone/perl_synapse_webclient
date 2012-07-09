@@ -1,0 +1,7 @@
+Delete existing project, re-create
+find data sets
+
+download actual data
+- looks like you 'fetch', then examine the 'locations' field of the response
+figure out how to launch analysis entity (on the cloud?)
+- see http://depot.sagebase.org/synapseRESTAPIProvenanceExample.html
